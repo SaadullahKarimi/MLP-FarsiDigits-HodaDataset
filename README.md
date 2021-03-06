@@ -6,12 +6,12 @@ An MLP consists of at least three layers of nodes: an input layer, a hidden laye
 
 Here, I classify Farsi digits by using the [Hoda Farsi Digit Dataset](https://github.com/amir-saniyan/HodaDatasetReader).
 
-![Image](https://github.com/mahsawz/MLP-FarsiDigits-HodaDataset/blob/main/HodaFarsiDigits-image.png)
+<img src="https://github.com/mahsawz/MLP-FarsiDigits-HodaDataset/blob/main/HodaFarsiDigits-image.png" width="150" height="90">
 
 One sample of this dataset is:
 
-![Image](https://github.com/mahsawz/MLP-FarsiDigits-HodaDataset/blob/main/sample.png)
+<img src="https://github.com/mahsawz/MLP-FarsiDigits-HodaDataset/blob/main/sample.png" width="90" height="150">
 
 I design an MLP by using Keras, and train it on Hoda dataset. Also, I calculate Precision, Recall, F1-score, and Accuracy metrics that you can see below in detail.
 
-![Image](https://github.com/mahsawz/MLP-FarsiDigits-HodaDataset/blob/main/classification-report.png)
+<img src="https://github.com/mahsawz/MLP-FarsiDigits-HodaDataset/blob/main/classification-report.png" width="100" height="150">
